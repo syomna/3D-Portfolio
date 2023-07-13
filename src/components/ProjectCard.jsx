@@ -2,7 +2,7 @@ import { Box, Stack, Typography } from "@mui/material";
 import React from "react";
 import { Tilt } from "react-tilt";
 import { Colors } from "../utils/colors";
-import GitHubIcon from "@mui/icons-material/GitHub";
+import GithubIcon from "@mui/icons-material/GitHub";
 import PlayCircleIcon from "@mui/icons-material/PlayCircle";
 import GoogleIcon from "@mui/icons-material/Google";
 import AppleIcon from "@mui/icons-material/Apple";
@@ -72,7 +72,7 @@ const ProjectCard = ({ project }) => {
               </a>
 
               <a href={github} target="_blank">
-                <GitHubIcon />
+                <GithubIcon />
               </a>
             </Stack>
           )}

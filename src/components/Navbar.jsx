@@ -6,7 +6,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { useState } from "react";
-import LOGO from "../assets/logo.png";
+import LOGO from "/logo.png";
 import { Colors } from "../utils/colors";
 import { Constants } from "../utils/constants";
 import DragHandleIcon from "@mui/icons-material/DragHandle";
