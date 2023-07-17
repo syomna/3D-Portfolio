@@ -50,6 +50,6 @@ The project utilizes the following technologies:
 - [Emailjs](https://www.emailjs.com): A service that allows you to send emails directly from JavaScript.
 - [Formik](https://formik.org): A form library for React that helps with form validation, handling, and submission.
 
-## Contact
+## Acknowledge
 
-If you have any inquiries or questions, feel free to reach out to [syomna444@example.com](mailto:syomna444@example.com).
+- [JavaScriptMastery](https://youtube.com/@javascriptmastery)
